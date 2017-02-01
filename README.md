@@ -1,7 +1,7 @@
-# No Chill - The Game
+![Header][logo] <hr>
 A randomly generated endless game.
 
-![Header][logo]
+
 ### Play Now: <a target="_blank" href="https://www.dropbox.com/s/9fwajrywi3kcaao/No%20Chill.rar?dl=0">Download NoChill</a>
 
 
