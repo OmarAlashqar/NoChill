@@ -1,8 +1,20 @@
-![Header][logo] <hr>
-A randomly generated endless game.
+![Header][logo]
 
-NoChill is a Java clone of the popular game Crossy Road.
+NoChill is a randomly generated endless Crossy Road clone.
 
-*Note* Java 7+ is required to play this game.
+This game was developed as a final project in a highschool computer science class.
 
-[logo]: https://github.com/OmarAshqar/NoChill/blob/master/img/nochill-header.png "Logo Title Text 2"
+## Screenshots
+
+### Main menu
+![Main menu][menu]
+
+### Gameplay
+![Gameplay][gameplay]
+
+## Notes
+Tested and working with Java 8.
+
+[logo]: ./img/header.png
+[menu]: ./img/main-menu.png
+[gameplay]: ./img/gameplay.png
